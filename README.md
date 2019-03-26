@@ -1,21 +1,19 @@
-﻿# ADM-MANAGER-MOD
+# ADM-IFS-PLUS
 
-Manager Script
+Ifs Manager Script
 
-1 • RECOMENDADO UBUNTU 14.04
+1 • RECOMENDADO UBUNTU 14.04 o DEBIAN 9
 
 2 • USAR DISTRIBUCION NUEVA O FORMATIADA
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-MOD/master/instala.sh; chmod +x instala.sh; ./instala.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/MaxiiARG/ADM-MANAGER-MOD/master/instala.sh; chmod +x instala.sh; ./instala.sh
 
 ==================================================================================
 
-*SIN MINERIA! *SIN KEYS! *VERSION GRATUITA *SIN VIRUS TROJANO (BOTNET) *ARCHIVOS LIBERADOS (DECENCRIPTADOS)
+* VERSION ADM IFS PLUS * 
 
 ==================================================================================
 
-☆ https://t.me/admmanagerfree ☆
-=================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_Gato
+La mejor configuracion & programacion en Telegram: @SrDeadpool 
 
-[ FULL SCRIPTS ⃘⃤꙰✰ ] && VPS
+[FULL SCRIPTS] & VPS
