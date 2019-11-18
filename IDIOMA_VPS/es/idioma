@@ -25,7 +25,7 @@ Elija en orden, 1 2 3 4 5 6
 No se han seleccionado seis colores!
 ¡Aplicando el color seleccionado! ...
 CAMBIAR IDIOMA DEL SCRIPT
-CREADOR DE USUARIOS ADM-ULTIMATE
+CREADOR DE USUARIOS IFS-ADM
 Nombre del nuevo usuario:
 Nombre nulo
 Usuario ya existente!
@@ -76,7 +76,7 @@ USUARIOS
 CONEXIÓN
 TIEMPO
 Ese Herramienta va a Traducir
-Todo el contenido de ADM-ULTIMATE
+Todo el contenido de IFS-ADM
 Seleccione el número de idioma, o utilice las iniciales del idioma.
 
 Traduciendo el sistema...
@@ -99,7 +99,7 @@ COMPARTIR ARCHIVO ONLINE
 Escriba sólo valores numérico
 INICIANDO BACKUP
 Copia de seguridad de usuarios
-Usuario no registrado en ADM-IFS
+Usuario no registrado en IFS-ADM
 Introduzca la información del usuario.
 Contraseña actual:
 Días De Duración:
@@ -209,7 +209,7 @@ Valida! Actualizando ...
 ¡Expirada o invalida Saliendo!
 ¿Esta seguro de esto?
 Desinstalación cancelada por el usuario
-Creado por @MaxiiARG4k
+Creado por MaxiiARG
 AGREGAR / REMOVER HOST-SQUID
 no encontrado
 O Squid no instalado
